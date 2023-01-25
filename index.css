@@ -1,0 +1,24 @@
+html{
+    background:url(haikei2.webp);
+    color:rgba(57, 8, 8, 0.897);
+}
+h1{
+
+    border: 10px outset rgb(130, 155, 238);
+    margin:auto;
+}
+td{
+    font-family:serif;
+}
+.EUP{
+    width:150px;
+    position:absolute;
+    top: 520px;
+    left:250px;
+}
+.MUP{
+    width: 300px;
+    position:absolute;
+    top: 850px;
+    left: 170px;
+}
